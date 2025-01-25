@@ -2,5 +2,5 @@ Groceries - Rs.15000/month
 Utilities - Rs.22000/month
 Entertainment - Rs.8000/month
 
-
+Transport - Rs. 0
 Total - Rs.45000/month
